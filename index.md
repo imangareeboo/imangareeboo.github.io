@@ -1,4 +1,10 @@
 
+_config.yml
+@@ -0,0 +1,4 @@
+name: Your Name
+markdown: kramdown
+
+theme: jekyll-theme-cayman
 
 ## About me 
 
