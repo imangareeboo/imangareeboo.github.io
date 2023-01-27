@@ -1,4 +1,7 @@
+name: Iman Gareeboo
+markdown: kramdown
 
+theme: jekyll-theme-cayman
 
 ## About me 
 
