@@ -6,10 +6,14 @@ My name is Iman Gareeboo. I am a doctoral student in the **University of Miami's
 
 My family is originally from Mauritius, with South Asian and Asian ancestry. I was born in England, was raised mostly in Texas and Florida in the USA, and have lived in Mauritius, England, and France. 
 
+>“For what do we live, but to make sport for our neighbours and laugh at them in our turn?”
+Pride and Prejudice, 1813
+
 ## Contact information
 
-My email is igareeboo@yahoo.com, but I can also be reached ixg436@miami.edu. You can also access my [LinkedIn](https://www.linkedin.com/in/iman-gareeboo/) for more info on my history and experiences. 
+igareeboo@yahoo.com
 
+ixg436@miami.edu. 
 ## Education 
 
 Doctoral Student at the University of Miami, 2022-2027
@@ -44,4 +48,6 @@ Third Language: French
   * 5th grade English Reading and Writing
   * 5th grade Social Studies 
 
+### Links
+You can also access my [LinkedIn](https://www.linkedin.com/in/iman-gareeboo/) for more info on my history and experiences. 
 
