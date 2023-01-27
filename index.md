@@ -45,3 +45,4 @@ Third Language: French
   * 5th grade Social Studies 
 
 
+[Exercise2 (1).zip](https://github.com/imangareeboo/imangareeboo.github.io/files/10514503/Exercise2.1.zip)
