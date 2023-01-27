@@ -1,6 +1,4 @@
----
-layout: default
-title: Susanna Alles Torrent
+
 
 ## About me 
 
