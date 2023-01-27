@@ -13,8 +13,11 @@ My email is igareeboo@yahoo.com, but I can also be reached ixg436@miami.edu. You
 ## Education 
 
 Doctoral Student at the University of Miami, 2022-2027
+
 Masters in Postcolonial Studies from SOAS, University of London
+
 B.A. Honors in English and French from Rollins College
+
   *Minor in Middle Eastern and North African Studies 
 
 ## Publications 
