@@ -1,5 +1,5 @@
 
-## About me 
+## About Iman 
 
 My name is Iman Gareeboo. I am a doctoral student in the **University of Miami's** English Department. My scholarly interests are in anglophone, postcolonial, and world literatures. Specifically, I research Jane Austen's novels, her contemporaries, and adaptations of Austen's work, as well as the relationships between Austen adaptations. I also work in postcolonial analysis, mostly of colonial British literature, but also with some French and North African literature. I have interests in researching South Asian, Arab, Persian, and Japanese literature. 
 
